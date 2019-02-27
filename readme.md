@@ -10,7 +10,7 @@
 | 1  | Bitcoin | BTC    | 67517711508.3        | 17557625.0           | 3845.49228659 | 1.0         | 17557625.0               | 9931066155.01 | 2582891.72508 | 0.215428    | -1.03931     | 0.0473774   |
 
 # Использование
-Скачать под подходящую платформу исполняемый файл из [/executables/](https://github.com/hugmouse/Rustling-on-Golang/tree/master/coinmarketcap-parser/executables) и запустить.
+Скачать под подходящую платформу исполняемый файл из [релизов](https://github.com/hugmouse/goparse-coinmarketcap/releases) и запустить.
 
 Ниже пример с `wget`:
 
