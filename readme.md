@@ -16,7 +16,7 @@
 
 ```bash
 # Данный пример скачивает версию для linux, с 64-битной архитектурой: 
-wget https://github.com/hugmouse/Rustling-on-Golang/raw/master/coinmarketcap-parser/executables/crypto.go-linux-amd64
+wget https://github.com/hugmouse/goparse-coinmarketcap/releases/download/v0.1/crypto.go-linux-amd64
 
 # Делаем файл исполняемым:
 chmod +x crypto.go-linux-amd64
